@@ -17,41 +17,27 @@ I design and build the whole thing — frontend, backend, database, deployment. 
 
 ### 📌 Featured work
 
-<table>
-<tr>
-<td width="55%">
-
 **[BrewBliss](https://milktea.samiraomar.com)**
+
+<img src="https://samiraomar.com/assets/images/project3.webp" width="100%" />
+
 A full milk tea ordering system: shopping cart, live order tracking, and an admin dashboard for managing orders, built on PHP/MySQL with secure credential handling.
 
-</td>
-<td>
-<img src="https://samiraomar.com/assets/images/project3.webp" width="260"/>
-</td>
-</tr>
-<tr>
-<td width="55%">
+<br>
 
 **[samiraomar.com](https://samiraomar.com)**
+
+<img src="https://samiraomar.com/assets/images/work2.webp" width="100%" />
+
 My own freelance site: service packages, booking flow, AI chatbot, and SEO setup — built with the same stack I sell to clients.
 
-</td>
-<td>
-<img src="https://samiraomar.com/assets/images/preview.webp" width="260"/>
-</td>
-</tr>
-<tr>
-<td width="55%">
+<br>
 
 **[Salon Booking Demo](https://salon.samiraomar.com)**
-A responsive salon website with Calendly booking, contact form, and embedded map.
 
-</td>
-<td>
-<img src="https://samiraomar.com/assets/images/work1.webp" width="260"/>
-</td>
-</tr>
-</table>
+<img src="https://samiraomar.com/assets/images/work1.webp" width="100%" />
+
+A responsive salon website with Calendly booking, contact form, and embedded map.
 
 ---
 

@@ -17,7 +17,7 @@ I'm not telling you that for sympathy. I'm telling you because it's the reason I
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I build the whole website myself — design, frontend, backend, database, and putting it online.
+I build the whole website myself — design, frontend, backend, database, and deploy on cPanel.
 
 ---
 
@@ -43,7 +43,7 @@ My own freelance site: service packages, booking flow, AI chatbot, and SEO setup
 
 </td>
 <td>
-<img src="https://samiraomar.com/assets/images/work2.webp" width="260"/>
+<img src="https://samiraomar.com/assets/images/preview.webp" width="260"/>
 </td>
 </tr>
 <tr>
@@ -63,6 +63,6 @@ A responsive salon website with Calendly booking, contact form, and embedded map
 
 ### 🤝 Currently
 
-Building out my freelance practice and taking on new website projects — landing pages, booking systems, AI chatbot integration, SEO setup.
+I'm taking on new freelance projects — custom landing pages, booking system integration, AI chatbot setup, and SEO-ready builds. If your business needs a website that actually works for you, I'd love to help.
 
 📩 [hello@samiraomar.com](mailto:hello@samiraomar.com) · 💬 [WhatsApp](https://wa.me/96567077369) · 💼 [LinkedIn](https://www.linkedin.com/in/samira-omar/) · 🌐 [samiraomar.com](https://samiraomar.com)

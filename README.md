@@ -17,11 +17,41 @@ I design and build the whole thing — frontend, backend, database, deployment. 
 
 ### 📌 Featured work
 
-**[BrewBliss](https://milktea.samiraomar.com)** — a full milk tea ordering system: shopping cart, live order tracking, and an admin dashboard for managing orders, built on PHP/MySQL with secure credential handling.
+<table>
+<tr>
+<td width="55%">
 
-**[samiraomar.com](https://samiraomar.com)** — my own freelance site: service packages, booking flow, AI chatbot, and SEO setup — built with the same stack I sell to clients.
+**[BrewBliss](https://milktea.samiraomar.com)**
+A full milk tea ordering system: shopping cart, live order tracking, and an admin dashboard for managing orders, built on PHP/MySQL with secure credential handling.
 
-**[Salon Booking Demo](https://salon.samiraomar.com)** — a responsive salon website with Calendly booking, contact form, and embedded map.
+</td>
+<td>
+<img src="https://samiraomar.com/assets/images/project3.webp" width="260"/>
+</td>
+</tr>
+<tr>
+<td width="55%">
+
+**[samiraomar.com](https://samiraomar.com)**
+My own freelance site: service packages, booking flow, AI chatbot, and SEO setup — built with the same stack I sell to clients.
+
+</td>
+<td>
+<img src="https://samiraomar.com/assets/images/preview.webp" width="260"/>
+</td>
+</tr>
+<tr>
+<td width="55%">
+
+**[Salon Booking Demo](https://salon.samiraomar.com)**
+A responsive salon website with Calendly booking, contact form, and embedded map.
+
+</td>
+<td>
+<img src="https://samiraomar.com/assets/images/work1.webp" width="260"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -30,4 +60,3 @@ I design and build the whole thing — frontend, backend, database, deployment. 
 Building out my freelance practice and taking on new website projects — landing pages, booking systems, AI chatbot integration, SEO setup.
 
 📩 [hello@samiraomar.com](mailto:hello@samiraomar.com) · 💬 [WhatsApp](https://wa.me/96567077369) · 💼 [LinkedIn](https://www.linkedin.com/in/samira-omar/) · 🌐 [samiraomar.com](https://samiraomar.com)
-

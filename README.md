@@ -27,7 +27,8 @@ I build the whole website myself — design, frontend, backend, database, and de
 <tr>
 <td width="55%">
 
-**[BrewBliss](https://milktea.samiraomar.com)**
+**[Milktea Shop Demo](https://milktea.samiraomar.com)**
+
 A full milk tea ordering system: shopping cart, live order tracking, and an admin dashboard for managing orders, built on PHP/MySQL with secure credential handling.
 
 </td>
@@ -39,6 +40,7 @@ A full milk tea ordering system: shopping cart, live order tracking, and an admi
 <td width="55%">
 
 **[samiraomar.com](https://samiraomar.com)**
+
 My own freelance site: service packages, booking flow, AI chatbot, and SEO setup — built with the same stack I sell to clients.
 
 </td>
@@ -50,6 +52,7 @@ My own freelance site: service packages, booking flow, AI chatbot, and SEO setup
 <td width="55%">
 
 **[Salon Booking Demo](https://salon.samiraomar.com)**
+
 A responsive salon website with Calendly booking, contact form, and embedded map.
 
 </td>

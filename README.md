@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=fe8d14&height=200&section=header&text=Samira%20Omar&fontSize=60&fontColor=ffffff&desc=Website%20Developer%20%7C%20From%20DH%20to%20Dev&descSize=20&descAlignY=70)
+
 # Hi, I'm Samira 👋
 
 Nine years ago I left the Philippines to work as a domestic helper in Kuwait.
@@ -9,35 +11,54 @@ I'm not telling you that for sympathy. I'm telling you because it's the reason I
 
 ### 🛠️ What I actually build
 
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Git`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I design and build the whole thing — frontend, backend, database, deployment. No-code tools have a ceiling. I don't.
+I build the whole website myself — design, frontend, backend, database, and deploy on cPanel.
 
 ---
 
 ### 📌 Featured work
 
+<table>
+<tr>
+<td width="55%">
+
 **[BrewBliss](https://milktea.samiraomar.com)**
-
-<img src="https://samiraomar.com/assets/images/project3.webp" width="100%" />
-
 A full milk tea ordering system: shopping cart, live order tracking, and an admin dashboard for managing orders, built on PHP/MySQL with secure credential handling.
 
-<br>
+</td>
+<td>
+<img src="https://samiraomar.com/assets/images/project3.webp" width="260"/>
+</td>
+</tr>
+<tr>
+<td width="55%">
 
 **[samiraomar.com](https://samiraomar.com)**
-
-<img src="https://samiraomar.com/assets/images/work2.webp" width="100%" />
-
 My own freelance site: service packages, booking flow, AI chatbot, and SEO setup — built with the same stack I sell to clients.
 
-<br>
+</td>
+<td>
+<img src="https://samiraomar.com/assets/images/work2.webp" width="260"/>
+</td>
+</tr>
+<tr>
+<td width="55%">
 
 **[Salon Booking Demo](https://salon.samiraomar.com)**
-
-<img src="https://samiraomar.com/assets/images/work1.webp" width="100%" />
-
 A responsive salon website with Calendly booking, contact form, and embedded map.
+
+</td>
+<td>
+<img src="https://samiraomar.com/assets/images/work1.webp" width="260"/>
+</td>
+</tr>
+</table>
 
 ---
 

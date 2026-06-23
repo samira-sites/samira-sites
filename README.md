@@ -2,8 +2,7 @@
 
 # Hi, I'm Samira 👋
 
-Nine years ago I left the Philippines to work as a domestic helper in Kuwait.
-This year I finished a UK Level 4 Diploma in Information Technology — and I build full-stack websites for small businesses, on the side, from the same room I do everything else in.
+Nine years ago, I left the Philippines to work as a domestic helper in Kuwait. This year, I finished a UK Level 4 Diploma in Information Technology — and I build full-stack websites for small businesses, on the side, from the same room I do everything else in.
 
 I'm not telling you that for sympathy. I'm telling you because it's the reason I don't waste a client's time or money: I know exactly what it costs to earn it.
 
@@ -18,7 +17,7 @@ I'm not telling you that for sympathy. I'm telling you because it's the reason I
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I build the whole website myself — design, frontend, backend, database, and deploy on cPanel.
+I build the whole website myself — design, frontend, backend, database, and putting it online.
 
 ---
 

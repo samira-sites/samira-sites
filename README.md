@@ -2,9 +2,8 @@
 
 # Hi, I'm Samira 👋
 
-Nine years ago, I left the Philippines to work as a domestic helper in Kuwait. This year, I finished a UK Level 4 Diploma in Information Technology — and I build full-stack websites for small businesses, on the side, from the same room I do everything else in.
-
-I'm not telling you that for sympathy. I'm telling you because it's the reason I don't waste a client's time or money: I know exactly what it costs to earn it.
+Nine years ago, I left the Philippines to work as a domestic helper in Kuwait. While working full-time, I earned a UK Level 4 Diploma in Information Technology — and now I design and build full-stack websites for small businesses, startups, and personal brands.
+I show up, I follow through, and I treat every project like it's mine — because I know exactly what it takes to earn something real. I'm currently taking on my first freelance clients — let's build something together.
 
 ---
 

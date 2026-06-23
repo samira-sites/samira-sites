@@ -65,4 +65,10 @@ A responsive salon website with Calendly booking, contact form, and embedded map
 
 I'm taking on new freelance projects — custom landing pages, booking system integration, AI chatbot setup, and SEO-ready builds. If your business needs a website that actually works for you, I'd love to help.
 
-📩 [hello@samiraomar.com](mailto:hello@samiraomar.com) · 💬 [WhatsApp](https://wa.me/96567077369) · 💼 [LinkedIn](https://www.linkedin.com/in/samira-omar/) · 🌐 [samiraomar.com](https://samiraomar.com)
+📩 [hello@samiraomar.com](mailto:hello@samiraomar.com) 
+
+💬 [WhatsApp](https://wa.me/96567077369) 
+
+💼 [LinkedIn](https://www.linkedin.com/in/samira-omar/)
+
+🌐 [samiraomar.com](https://samiraomar.com)

@@ -77,3 +77,4 @@ I'm taking on new freelance projects — custom landing pages, booking system in
 💼 [LinkedIn](https://www.linkedin.com/in/samira-omar/)
 
 🌐 [samiraomar.com](https://samiraomar.com)
+

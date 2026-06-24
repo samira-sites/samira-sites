@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=fe8d14&height=240&section=header&text=Samira%20Omar&fontSize=60&fontColor=ffffff&desc=Website%20Developer%20%7C%20From%20Domestic%20Helper%20to%20Dev&descSize=30&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:fe8d14,100:ffb347&height=280&section=header&text=Website%20Developer&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=From%20Domestic%20Helper%20to%20Building%20Modern%20Websites&descSize=24&descAlignY=72)
 
 # Hi, I'm Samira 👋
 

@@ -18,8 +18,9 @@ I'm currently taking on my first freelance clients — let's build something tog
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
-I build the whole website myself — design, frontend, backend, database, and deploy on cPanel.
+I build the whole website myself — design, frontend, backend, database, and deployment on cPanel.
 
 ---
 

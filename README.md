@@ -2,7 +2,7 @@
 
 # Hi, I'm Samira 👋
 
-Nine years ago, I left the Philippines to work as a domestic helper in Kuwait. While working full-time, I earned a UK Level 4 Diploma in Information Technology — and now I design and build full-stack websites for small businesses, startups, and personal brands.
+Nine years ago, I left the Philippines to work as a domestic helper in Kuwait. While working full-time, I earned a UK Diploma in Information Technology — and now I design and build full-stack websites for small businesses, startups, and personal brands.
 
 I show up, I follow through, and I treat every project like it's mine — because I know exactly what it takes to earn something real. 
 

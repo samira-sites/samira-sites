@@ -69,7 +69,6 @@ A responsive salon website with Calendly booking, contact form, and embedded map
 ### 🤝 Currently
 
 I'm taking on new freelance projects — custom landing pages, booking system integration, AI chatbot setup, and SEO-ready builds. If your business needs a website that actually works for you, I'd love to help.
-
 [
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)

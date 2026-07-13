@@ -45,7 +45,7 @@ A full milk tea ordering system: shopping cart, live order tracking, and an admi
 
 **[samiraomar.com](https://samiraomar.com)**
 
-My own freelance site: service packages, booking flow, AI chatbot, and SEO setup — built with the same stack I sell to clients.
+My own freelance site: service packages, AI chatbot, and SEO setup — built with the same stack I sell to clients.
 
 </td>
 <td>

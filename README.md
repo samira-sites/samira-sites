@@ -3,7 +3,7 @@
 # Hi, I'm Samira 👋
 
 A Website Developer, 
-From domestic helper in Kuwait to full-stack web developer — I earned a UK IT Diploma while working full-time, and now I build websites for small businesses, startups, and personal brands.
+from domestic helper in Kuwait to full-stack web developer — I earned a UK IT Diploma while working full-time, and now I build websites for small businesses, startups, and personal brands.
 
 I handle every part of a project myself: design, frontend, backend, and deployment. I show up, I follow through, and I build like it's my own business on the line.
 

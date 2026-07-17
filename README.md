@@ -10,6 +10,12 @@ I handle every part of a project myself: design, frontend, backend, and deployme
 📬 Open for freelance work → samiraomar.com
 
 ---
+### 🎓 Education
+
+- 🎓 **UK Level 4 Diploma in Information Technology** 
+- 💻 **Computer Secretarial** 
+
+---
 
 ### 🛠️ What I actually build
 

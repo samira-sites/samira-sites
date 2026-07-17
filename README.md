@@ -12,7 +12,7 @@ I handle every part of a project myself: design, frontend, backend, and deployme
 ---
 ### 🎓 Education
 
-- 🎓 **UK Level 4 Diploma in Information Technology** 
+- 🎓 **UK Diploma in Information Technology** 
 - 💻 **Computer Secretarial** 
 
 ---

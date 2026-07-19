@@ -10,11 +10,7 @@
 
 ## 👋 Hi, I'm Samira Omar
 
-## 💻 Full-Stack Web Developer | PHP Developer | Custom Website Developer
-
-From working as a domestic helper in Kuwait for 9 years to building modern websites, I have transformed my passion for technology into a career in web development.
-
-I specialize in creating **responsive, SEO-friendly, and user-focused websites** for small businesses, startups, and individuals.
+I am a **Full-Stack Web Developer specializing in PHP and custom website development**. After 9 years working as a domestic helper in Kuwait, I transformed my passion for technology into building **responsive, SEO-friendly, and user-focused websites** for businesses, startups, and personal brands.
 
 Currently focused on:
 
@@ -63,6 +59,7 @@ My journey taught me discipline, patience, responsibility, and the importance of
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
@@ -73,7 +70,7 @@ I help businesses and individuals create:
 ✅ Responsive business websites  
 ✅ Landing pages  
 ✅ Portfolio websites  
-✅ Booking Integration 
+✅ Booking Integration     
 ✅ Database-driven websites  
 ✅ Website performance improvements  
 ✅ SEO-ready websites  

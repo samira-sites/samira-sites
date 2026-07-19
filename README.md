@@ -24,19 +24,6 @@ I enjoy turning ideas into functional digital experiences through clean code, th
 
 ---
 
-## 🚀 About Me
-
-- 💻 Full-Stack Web Developer in progress
-- 🌱 Currently learning **Laravel Framework and modern PHP practices**
-- 🛠️ Building custom websites
-- 🎨 Passionate about responsive UI/UX design
-- 🔍 Interested in clean code, security, and performance optimization
-- 🌍 Open to freelance opportunities and collaboration
-
-My journey taught me discipline, patience, responsibility, and the importance of continuous growth. I bring those values into every project I build.
-
----
-
 # 🛠️ Tech Stack
 
 ## Frontend Development
@@ -60,6 +47,13 @@ My journey taught me discipline, patience, responsibility, and the importance of
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+# 🎓 Education
+
+🎓 **UK Diploma in Information Technology**  
+
+💻 **Computer Secretarial Course**
 
 ---
 
@@ -95,50 +89,6 @@ I help businesses and individuals create:
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samira-sites&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
-
----
-# 🌱 Currently Learning
-
-I believe great developers never stop learning.
-
-Currently improving my skills in:
-
-- 🚀 Laravel Framework
-- 🔐 PHP Security Best Practices
-- 🔌 REST API Development
-- 🗄️ Advanced MySQL Queries
-- ⚡ Website Performance Optimization
-- 🐳 Modern Development Tools
-
-My goal is to continue growing as a **Full-Stack PHP Developer** and build scalable, secure, and maintainable web applications.
-
----
-
-# 🧠 Development Focus
-
-## Frontend
-
-- Responsive web design
-- Mobile-first development
-- User interface improvements
-- Accessibility best practices
-- Website performance optimization
-
-## Backend
-
-- PHP application development
-- Database design
-- CRUD systems
-- API integration
-- Secure data handling
-
-## Best Practices
-
-- Clean and maintainable code
-- Version control with Git
-- Security-focused development
-- SEO-friendly websites
-- Performance optimization
 
 ---
 

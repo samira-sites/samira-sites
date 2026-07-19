@@ -1,8 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:fe8d14,100:ffb347&height=280&section=header&text=Full%20Stack%20Web%20Developer&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=From%20Domestic%20Helper%20to%20Building%20Modern%20Websites&descSize=22&descAlignY=72)
-
-<p align="center">
-<img src="https://samiraomar.com/assets/images/image.webp" width="150" style="border-radius:50%">
-</p>
+![Header](https://raw.githubusercontent.com/samira-sites/samira-sites/main/assets/banner.png)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-success?style=for-the-badge">

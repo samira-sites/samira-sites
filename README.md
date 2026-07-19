@@ -32,7 +32,7 @@ I enjoy turning ideas into functional digital experiences through clean code, th
 
 - 💻 Full-Stack Web Developer in progress
 - 🌱 Currently learning **Laravel Framework and modern PHP practices**
-- 🛠️ Building custom websites and web applications
+- 🛠️ Building custom websites
 - 🎨 Passionate about responsive UI/UX design
 - 🔍 Interested in clean code, security, and performance optimization
 - 🌍 Open to freelance opportunities and collaboration
@@ -73,64 +73,20 @@ I help businesses and individuals create:
 ✅ Responsive business websites  
 ✅ Landing pages  
 ✅ Portfolio websites  
-✅ Booking systems  
-✅ Custom PHP applications  
+✅ Booking Integration 
 ✅ Database-driven websites  
 ✅ Website performance improvements  
 ✅ SEO-ready websites  
 
 ---
-
 # ⭐ Featured Projects
 
-## 🧋 BrewBliss Milk Tea Website
-
-A responsive milk tea ordering website with a custom PHP backend, MySQL database integration, and order tracking functionality.
-
-### Features
-
-- Responsive mobile-first design
-- Product ordering system
-- Order tracking
-- Database integration
-- Admin management features
-- Email integration
-
-### Technologies
-
-HTML • CSS • JavaScript • PHP • MySQL
-
-🌐 Live Demo:
-https://milktea.samiraomar.com
-
-💻 Source Code:
-https://github.com/samira-sites/custom-web-development
-
+| Project Details | Preview |
+|---|---|
+| ## 🧋 BrewBliss Milk Tea Website<br><br>A responsive e-commerce website with custom PHP backend, MySQL database, order tracking, and email integration.<br><br>**Tech:** HTML • CSS • JavaScript • PHP • MySQL<br><br>🌐 [Live Demo](https://milktea.samiraomar.com)<br>💻 [Source Code](https://github.com/samira-sites/custom-web-development) | <img src="https://samiraomar.com/assets/images/project3.webp" width="400"> |
+| ## 🌐 Personal Developer Portfolio<br><br>A professional portfolio website showcasing my skills, projects, and web development services with SEO and performance optimization.<br><br>**Tech:** HTML • CSS • JavaScript • PHP<br><br>🌐 [Website](https://samiraomar.com)<br>💻 [Source Code](https://github.com/samira-sites) | <img src="https://samiraomar.com/assets/images/preview.webp" width="400"> |
+| ## 💅 Nail Salon Website Demo<br><br>A modern beauty salon website concept designed for showcasing services, galleries, and customer booking experiences.<br><br>**Tech:** HTML • CSS • JavaScript<br><br>🌐 [Live Demo](YOUR_NAIL_WEBSITE_URL)<br>💻 [Source Code](YOUR_NAIL_GITHUB_URL) | <img src="https://samiraomar.com/assets/images/work1.webp" width="400"> |
 ---
-
-## 🌐 Personal Developer Portfolio
-
-My personal portfolio website showcasing my skills, projects, and services as a web developer.
-
-### Features
-
-- Modern responsive design
-- SEO optimization
-- Performance improvements
-- Contact integration
-- Mobile-friendly layout
-
-### Technologies
-
-HTML • CSS • JavaScript • PHP
-
-🌐 Website:
-https://samiraomar.com
-
----
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">

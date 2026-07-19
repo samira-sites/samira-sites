@@ -12,36 +12,26 @@
 
 I am a **Full-Stack Web Developer specializing in PHP and custom website development**. After 9 years working as a domestic helper in Kuwait, I transformed my passion for technology into building **responsive, SEO-friendly, and user-focused websites** for businesses, startups, and personal brands.
 
-Currently focused on:
-
-- 🌐 Frontend Development
-- ⚙️ PHP Backend Development
-- 🗄️ MySQL Database Integration
-- 🚀 Custom Website Development
-- 📈 Website Performance Optimization
-
-I enjoy turning ideas into functional digital experiences through clean code, thoughtful design, and continuous learning.
-
 ---
 
 # 🛠️ Tech Stack
 
-## Frontend Development
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Backend Development
+### Backend Development
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## Database
+### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -57,19 +47,6 @@ I enjoy turning ideas into functional digital experiences through clean code, th
 
 ---
 
-# 💼 What I Build
-
-I help businesses and individuals create:
-
-✅ Responsive business websites  
-✅ Landing pages  
-✅ Portfolio websites  
-✅ Booking Integration     
-✅ Database-driven websites  
-✅ Website performance improvements  
-✅ SEO-ready websites  
-
----
 # ⭐ Featured Projects
 
 | Project Details | Preview |
@@ -118,19 +95,6 @@ I understand that a website is not just code — it is a tool that helps busines
 
 ---
 
-# 📌 Future Goals
-
-My goals as a developer:
-
-- Become a professional Full-Stack PHP Developer
-- Build scalable web applications
-- Master Laravel ecosystem
-- Create solutions for small businesses
-- Collaborate with developers worldwide
-- Continue improving every day
-
----
-
 # 📫 Let's Connect
 
 I am open to:
@@ -138,7 +102,7 @@ I am open to:
 - Freelance projects
 - Web development opportunities
 - Collaboration
-- Learning opportunities
+
 
 <p align="left">
 

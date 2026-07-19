@@ -83,26 +83,23 @@ I help businesses and individuals create:
 
 | Project Details | Preview |
 |---|---|
-| ## 🧋 BrewBliss Milk Tea Website<br><br>A responsive e-commerce website with custom PHP backend, MySQL database, order tracking, and email integration.<br><br>**Tech:** HTML • CSS • JavaScript • PHP • MySQL<br><br>🌐 [Live Demo](https://milktea.samiraomar.com)<br>💻 [Source Code](https://github.com/samira-sites/custom-web-development) | <img src="https://samiraomar.com/assets/images/project3.webp" width="400"> |
-| ## 🌐 Personal Developer Portfolio<br><br>A professional portfolio website showcasing my skills, projects, and web development services with SEO and performance optimization.<br><br>**Tech:** HTML • CSS • JavaScript • PHP<br><br>🌐 [Website](https://samiraomar.com)<br>💻 [Source Code](https://github.com/samira-sites) | <img src="https://samiraomar.com/assets/images/preview.webp" width="400"> |
-| ## 💅 Nail Salon Website Demo<br><br>A modern beauty salon website concept designed for showcasing services, galleries, and customer booking experiences.<br><br>**Tech:** HTML • CSS • JavaScript<br><br>🌐 [Live Demo](YOUR_NAIL_WEBSITE_URL)<br>💻 [Source Code](YOUR_NAIL_GITHUB_URL) | <img src="https://samiraomar.com/assets/images/work1.webp" width="400"> |
+| **🧋 BrewBliss Milk Tea Website**<br><br>A responsive e-commerce website with custom PHP backend, MySQL database, order tracking, and email integration.<br><br>**Tech:** HTML • CSS • JavaScript • PHP • MySQL<br><br>🌐 [Live Demo](https://milktea.samiraomar.com) | <img src="https://samiraomar.com/assets/images/project3.webp" width="400"> |
+| **🌐 Personal Developer Portfolio**<br><br>A professional portfolio website showcasing my skills, projects, and web development services with SEO and performance optimization.<br><br>**Tech:** HTML • CSS • JavaScript • PHP<br><br>🌐 [Website](https://samiraomar.com) | <img src="https://samiraomar.com/assets/images/preview.webp" width="400"> |
+| **💅 Nail Salon Website Demo**<br><br>A modern beauty salon website concept designed for showcasing services, galleries, and customer booking experiences.<br><br>**Tech:** HTML • CSS • JavaScript<br><br>🌐 [Live Demo](YOUR_NAIL_WEBSITE_URL) | <img src="https://samiraomar.com/assets/images/work1.webp" width="400"> |
+
 ---
+
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samira-sites&show_icons=true&theme=tokyonight" alt="Samira's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samira-sites&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samira-sites&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira-sites&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samira-sites&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
-
 # 🌱 Currently Learning
 
 I believe great developers never stop learning.

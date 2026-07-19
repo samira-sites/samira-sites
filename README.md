@@ -1,7 +1,11 @@
 ![Header](https://raw.githubusercontent.com/samira-sites/samira-sites/main/assets/banner.png)
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-success?style=for-the-badge">
+</p>
+
+<p align="center">
+  I build responsive, SEO-friendly websites and custom web solutions for businesses.
 </p>
 
 ## 👋 Hi, I'm Samira Omar

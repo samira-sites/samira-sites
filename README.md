@@ -12,29 +12,39 @@ I am a **Custom Website Developer** specializing in PHP and responsive, SEO-frie
 
 ---
 
+<div align="center">
+
 # 🛠️ Tech Stack
 
 ### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br>
 
 ### Backend Development
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<br>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br>
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+
+</div>
 
 ---
 # 🎓 Education
@@ -44,6 +54,7 @@ I am a **Custom Website Developer** specializing in PHP and responsive, SEO-frie
 💻 **Computer Secretarial Course**
 
 ---
+<div align="center">
 # ⭐ Featured Projects
 
 ## 🧋 BrewBliss Milk Tea Website
@@ -94,7 +105,7 @@ HTML • CSS • JavaScript
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samira-sites&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
-
+</div>
 ---
 
 # 🏆 My Developer Journey
@@ -120,19 +131,12 @@ I combine:
 I understand that a website is not just code — it is a tool that helps businesses connect with customers and grow online.
 
 ---
-
+<div align="center">
+  
 # 📫 Let's Connect
 
-I am open to:
-
-- 🚀 Freelance projects
-- 💼 Web development opportunities
-- 🤝 Collaboration
-
-<p align="center">
-
 <a href="https://samiraomar.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-fe8d14?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="mailto:hello@samiraomar.com">
@@ -147,7 +151,8 @@ I am open to:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+
+</div>
 ---
 <div align="center">
 

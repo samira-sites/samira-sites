@@ -52,7 +52,7 @@ I am a **Custom Website Developer** specializing in PHP and responsive, SEO-frie
 
 💻 **Computer Secretarial Course**
 
-<div align="center">
+<div align="left">
 
 <br>
 

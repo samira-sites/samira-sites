@@ -80,7 +80,7 @@ A modern beauty salon website concept designed to showcase services, galleries, 
 **Tech Stack:**  
 HTML • CSS • JavaScript
 
-🌐 **Live Demo:** https://nail.samiraomar.com
+🌐 **Live Demo:** https://salon.samiraomar.com
 
 ---
 

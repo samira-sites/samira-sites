@@ -43,14 +43,44 @@ I am a **Custom Website Developer** specializing in PHP and responsive, SEO-frie
 💻 **Computer Secretarial Course**
 
 ---
-
 # ⭐ Featured Projects
 
-| Project Details | Preview |
-|---|---|
-| **🧋 BrewBliss Milk Tea Website**<br><br>A responsive e-commerce website with custom PHP backend, MySQL database, order tracking, and email integration.<br><br>**Tech:** HTML • CSS • JavaScript • PHP • MySQL<br><br>🌐 [Live Demo](https://milktea.samiraomar.com) | <img src="https://samiraomar.com/assets/images/project3.webp" width="400"> |
-| **🌐 Personal Developer Portfolio**<br><br>A professional portfolio website showcasing my skills, projects, and web development services with SEO and performance optimization.<br><br>**Tech:** HTML • CSS • JavaScript • PHP<br><br>🌐 [Website](https://samiraomar.com) | <img src="https://samiraomar.com/assets/images/preview.webp" width="400"> |
-| **💅 Nail Salon Website Demo**<br><br>A modern beauty salon website concept designed for showcasing services, galleries, and customer booking experiences.<br><br>**Tech:** HTML • CSS • JavaScript<br><br>🌐 [Live Demo](YOUR_NAIL_WEBSITE_URL) | <img src="https://samiraomar.com/assets/images/work1.webp" width="400"> |
+## 🧋 BrewBliss Milk Tea Website
+
+<img src="https://samiraomar.com/assets/images/project3.webp" width="500">
+
+A responsive e-commerce website with a custom PHP backend, MySQL database, order tracking system, and email integration.
+
+**Tech Stack:**  
+HTML • CSS • JavaScript • PHP • MySQL
+
+🌐 **Live Demo:** https://milktea.samiraomar.com
+
+---
+
+## 🌐 Personal Developer Portfolio
+
+<img src="https://samiraomar.com/assets/images/preview.webp" width="500">
+
+A professional portfolio website showcasing my skills, projects, and web development services with SEO and performance optimization.
+
+**Tech Stack:**  
+HTML • CSS • JavaScript • PHP
+
+🌐 **Website:** https://samiraomar.com
+
+---
+
+## 💅 Nail Salon Website Demo
+
+<img src="https://samiraomar.com/assets/images/work1.webp" width="500">
+
+A modern beauty salon website concept designed to showcase services, galleries, and customer booking experiences.
+
+**Tech Stack:**  
+HTML • CSS • JavaScript
+
+🌐 **Live Demo:** https://nail.samiraomar.com
 
 ---
 

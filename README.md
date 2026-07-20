@@ -207,9 +207,7 @@ I understand that a website is not just code — it is a tool that helps busines
 <img src="https://img.shields.io/badge/Portfolio-FE8D14?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
-<a href="mailto:hello%40samiraomar.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@samiraomar.com)
 
 <a href="https://www.linkedin.com/in/samira-omar">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />

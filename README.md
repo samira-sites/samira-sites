@@ -203,10 +203,31 @@ I understand that a website is not just code — it is a tool that helps busines
 
 # 📫 Let's Connect
 
-🌐 <a href="https://samiraomar.com">Portfolio</a> •
-📧 <a href="mailto:hello@samiraomar.com">Email</a> •
-💼 <a href="https://www.linkedin.com/in/samira-omar">LinkedIn</a> •
-💻 <a href="https://github.com/samira-sites">GitHub</a>
+<a href="https://samiraomar.com">
+  <img src="https://cdn.simpleicons.org/googlechrome/FE8D14" width="20" />
+  Portfolio
+</a>
+
+&nbsp; • &nbsp;
+
+<a href="https://samiraomar.com/contact">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" />
+  Email
+</a>
+
+&nbsp; • &nbsp;
+
+<a href="https://www.linkedin.com/in/samira-omar">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" />
+  LinkedIn
+</a>
+
+&nbsp; • &nbsp;
+
+<a href="https://github.com/samira-sites">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20" />
+  GitHub
+</a>
 
 </div>
 

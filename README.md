@@ -87,11 +87,11 @@ I am a **Custom Website Developer** specializing in PHP and responsive, SEO-frie
 <div align="center">
 # ⭐ Featured Projects
 
-## 🧋 BrewBliss Milk Tea Website
+## 🧋 Milk Tea Website
 
 <img src="https://samiraomar.com/assets/images/project3.webp" width="500">
 
-A responsive e-commerce website with a custom PHP backend, MySQL database, order tracking system, and email integration.
+Modern milk tea ordering website featuring an interactive shopping cart, online ordering system, order tracking, and a secure admin dashboard for managing customer orders.
 
 **Tech Stack:**  
 HTML • CSS • JavaScript • PHP • MySQL
@@ -100,16 +100,17 @@ HTML • CSS • JavaScript • PHP • MySQL
 
 ---
 
-## 🌐 Personal Developer Portfolio
+## 🌐 My Personal Business Website
 
 <img src="https://samiraomar.com/assets/images/preview.webp" width="500">
 
-A professional portfolio website showcasing my skills, projects, and web development services with SEO and performance optimization.
+A professional business website that showcases my web development services, featured projects, technical expertise, and professional journey. Built with a strong focus on performance, responsive design, SEO best practices, and user experience.
 
-**Tech Stack:**  
+**Tech Stack:**
 HTML • CSS • JavaScript • PHP
 
 🌐 **Website:** https://samiraomar.com
+
 
 ---
 
@@ -117,7 +118,7 @@ HTML • CSS • JavaScript • PHP
 
 <img src="https://samiraomar.com/assets/images/work1.webp" width="500">
 
-A modern beauty salon website concept designed to showcase services, galleries, and customer booking experiences.
+Modern, responsive salon website featuring Calendly booking integration, contact form, and embedded map for easy client location and scheduling.
 
 **Tech Stack:**  
 HTML • CSS • JavaScript

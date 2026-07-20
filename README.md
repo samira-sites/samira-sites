@@ -36,13 +36,27 @@
 
 </div>
 
+<br>
+
 ## 👋 Hi, I'm Samira Omar
 
 I am a **Custom Website Developer** specializing in PHP and responsive, SEO-friendly websites. After 9 years working as a domestic helper in Kuwait, I transformed my passion for technology into building custom websites for businesses, startups, and personal brands.
 
+<br>
+
 ---
 
+# 🎓 Education
+
+🎓 **UK Diploma in Information Technology**  
+
+💻 **Computer Secretarial Course**
+
 <div align="center">
+
+<br>
+
+---
 
 # 🛠️ Tech Stack
 
@@ -76,14 +90,10 @@ I am a **Custom Website Developer** specializing in PHP and responsive, SEO-frie
 
 </div>
 
----
-# 🎓 Education
-
-🎓 **UK Diploma in Information Technology**  
-
-💻 **Computer Secretarial Course**
+<br>
 
 ---
+
 <div align="center">
   
 # ⭐ Featured Projects
@@ -99,6 +109,8 @@ HTML • CSS • JavaScript • PHP • MySQL
 
 🌐 **Live Demo:** https://milktea.samiraomar.com
 
+<br>
+
 ---
 
 ## 🌐 My Personal Business Website
@@ -112,6 +124,7 @@ HTML • CSS • JavaScript • PHP
 
 🌐 **Website:** https://samiraomar.com
 
+<br>
 
 ---
 
@@ -126,6 +139,8 @@ HTML • CSS • JavaScript
 
 🌐 **Live Demo:** https://salon.samiraomar.com
 
+<br>
+
 ---
 
 # 📊 GitHub Statistics
@@ -138,6 +153,9 @@ HTML • CSS • JavaScript
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samira-sites&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 </div>
+
+<br>
+
 ---
 
 # 🏆 My Developer Journey
@@ -147,6 +165,8 @@ My journey into technology began while I was working as a domestic helper in Kuw
 While working full-time, I dedicated my free time to studying IT and web development. Through hard work and perseverance, I earned a UK Diploma in Information Technology, balancing my studies with my job abroad. This experience strengthened my discipline, time management, patience, and commitment to continuous learning.
 
 Today, I continue to build real-world projects, expand my knowledge of PHP and Laravel, and create responsive, SEO-friendly websites that help businesses and individuals establish a strong online presence. I am committed to continuously improving my skills and delivering practical, high-quality web solutions.
+
+<br>
 
 ---
 
@@ -161,6 +181,8 @@ I combine:
 ✨ Passion for creating useful websites  
 
 I understand that a website is not just code — it is a tool that helps businesses connect with customers and grow online.
+
+<br>
 
 ---
 <div align="center">

@@ -124,31 +124,22 @@ I understand that a website is not just code — it is a tool that helps busines
 
 I am open to:
 
-- Freelance projects
-- Web development opportunities
-- Collaboration
+- 🚀 Freelance projects
+- 💼 Web development opportunities
+- 🤝 Collaboration
 
+<p align="center">
 
-<p align="left">
-
-<a href="https://samiraomar.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=for-the-badge&logo=googlechrome">
-</a>
-
-<a href="mailto:hello@samiraomar.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/samira-sites">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-</a>
+<a href="https://samiraomar.com" target="_blank">🌐 Portfolio</a> •
+<a href="mailto:hello@samiraomar.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/samira-omar" target="_blank">💼 LinkedIn</a> •
+<a href="https://github.com/samira-sites" target="_blank">💻 GitHub</a>
 
 </p>
 
 ---
+# ⭐ Thanks for Visiting!
 
-# ⭐ Thank You for Visiting My Profile
-
-If you find my projects interesting, feel free to explore my repositories or connect with me.
+Thanks for stopping by! Feel free to explore my projects or get in touch.
 
 **Let's build something meaningful together. 🚀**

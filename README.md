@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-FE8D14?style=for-the-badge&labelColor=555555">
 </p>
-```
+
+
 
 ## 👋 Hi, I'm Samira Omar
 

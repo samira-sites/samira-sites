@@ -131,16 +131,42 @@ I am open to:
 
 <p align="center">
 
-<a href="https://samiraomar.com" target="_blank">🌐 Portfolio</a> •
-<a href="mailto:hello@samiraomar.com">📧 Email</a> •
-<a href="https://www.linkedin.com/in/samira-omar" target="_blank">💼 LinkedIn</a> •
-<a href="https://github.com/samira-sites" target="_blank">💻 GitHub</a>
+<a href="https://samiraomar.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:hello@samiraomar.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/samira-omar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/samira-sites">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </p>
-
 ---
-# ⭐ Thanks for Visiting!
+<div align="center">
 
-Thanks for stopping by! Feel free to explore my projects or get in touch.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fe8d14" />
 
-**Let's build something meaningful together. 🚀**
+<br>
+
+<h2>✧ Thank you for visiting</h2>
+
+<p>
+A small collection of ideas, experiments, and creations.
+<br>
+I appreciate you taking the time to explore my work.
+</p>
+
+<br>
+
+<h3>🚀 Until the next build — stay curious.</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fe8d14" />
+
+</div>

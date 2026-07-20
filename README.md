@@ -204,29 +204,19 @@ I understand that a website is not just code — it is a tool that helps busines
 # 📫 Let's Connect
 
 <a href="https://samiraomar.com">
-  <img src="https://cdn.simpleicons.org/googlechrome/FE8D14" width="20" />
-  Portfolio
+<img src="https://img.shields.io/badge/Portfolio-FE8D14?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
-&nbsp; • &nbsp;
-
-<a href="mailto:hello@samiraomar.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" />
-  Email
+<a href="https://wa.me/+96567077369">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
-
-&nbsp; • &nbsp;
 
 <a href="https://www.linkedin.com/in/samira-omar">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" />
-  LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp; • &nbsp;
-
 <a href="https://github.com/samira-sites">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20" />
-  GitHub
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>

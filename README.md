@@ -201,6 +201,8 @@ I understand that a website is not just code — it is a tool that helps busines
 
 <div align="center">
 
+# 📫 Let's Connect
+
 <a href="https://samiraomar.com">
 <img src="https://img.shields.io/badge/Portfolio-FE8D14?style=flat&logo=googlechrome&logoColor=white" />
 </a>

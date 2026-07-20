@@ -199,6 +199,8 @@ I understand that a website is not just code — it is a tool that helps busines
 
 ---
 
+<br>
+
 <div align="center">
 
 # 📫 Let's Connect

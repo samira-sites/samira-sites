@@ -4,7 +4,37 @@
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-FE8D14?style=for-the-badge&labelColor=555555">
 </p>
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=fe8d14" />
+
+<br><br>
+
+<h2>✦ My Life Philosophy</h2>
+
+<br>
+
+<p>
+<em>
+" A dream without action is only a wish. "
+</em>
+</p>
+
+<br>
+
+<p>
+<b>Dreams become reality through discipline, courage, and consistent action.</b>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/DREAM%20%E2%86%92%20LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20GROW-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=fe8d14" />
+
+</div>
 
 ## 👋 Hi, I'm Samira Omar
 

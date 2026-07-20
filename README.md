@@ -209,7 +209,7 @@ I understand that a website is not just code — it is a tool that helps busines
 <img src="https://img.shields.io/badge/Portfolio-FE8D14?style=flat&logo=googlechrome&logoColor=white" />
 </a>
 
-<a href="https://wa.me/YOURNUMBER">
+<a href="https://wa.me/+96567077369">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
 </a>
 

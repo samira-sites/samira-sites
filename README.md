@@ -223,10 +223,18 @@ I understand that a website is not just code — it is a tool that helps busines
 
 <br>
 
-<h2>✧ Thank you for visiting</h2>
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fe8d14" />
+
+<br><br>
+
+<h2>✦ Thank you for visiting</h2>
 
 <p>
-A small collection of ideas, experiments, and creations.
+<i>A small collection of ideas, experiments, and creations.</i>
 <br>
 I appreciate you taking the time to explore my work.
 </p>
@@ -235,6 +243,8 @@ I appreciate you taking the time to explore my work.
 
 <h3>🚀 Until the next build — stay curious.</h3>
 
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fe8d14" />
-
 </div>
+
+

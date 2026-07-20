@@ -210,7 +210,7 @@ I understand that a website is not just code — it is a tool that helps busines
 
 &nbsp; • &nbsp;
 
-<a href="https://samiraomar.com/contact">
+<a href="mailto:hello@samiraomar.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" />
   Email
 </a>

@@ -4,6 +4,14 @@
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-FE8D14?style=for-the-badge&labelColor=555555">
 </p>
 
+<h2 align="center">
+Custom Website Developer
+</h2>
+
+<p align="center">
+Building modern, responsive, and tailored websites for businesses.
+</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=fe8d14" />

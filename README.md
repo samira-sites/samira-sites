@@ -162,28 +162,13 @@ I understand that a website is not just code — it is a tool that helps busines
 
 ---
 <div align="center">
-  
+
 # 📫 Let's Connect
 
-<a href="https://samiraomar.com">
-<img src="https://img.shields.io/badge/Portfolio-fe8d14?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="mailto:hello@samiraomar.com">
+<img src="https://img.shields.io/badge/Portfolio-FE8D14?style=for-the-badge&logo=googlechrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/samira-omar">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/samira-sites">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-
-</div>
----
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fe8d14" />

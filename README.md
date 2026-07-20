@@ -221,7 +221,11 @@ I understand that a website is not just code — it is a tool that helps busines
 <img src="https://img.shields.io/badge/GitHub-FE8D14?style=flat&logo=github&logoColor=000000" />
 </a>
 
-<br>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fe8d14" />
+
+<br><br>
 
 <h2>✦ Thank You For Visiting</h2>
 
@@ -234,5 +238,7 @@ I appreciate your interest in my work and services.
 </p>
 
 <h3>🚀 Let's create something meaningful together.</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=fe8d14" />
 
 

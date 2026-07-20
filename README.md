@@ -225,7 +225,7 @@ I understand that a website is not just code — it is a tool that helps busines
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fe8d14" />
 
-<br><br>
+<br>
 
 <h2>✦ Thank You For Visiting</h2>
 
@@ -240,5 +240,5 @@ I appreciate your interest in my work and services.
 <h3>🚀 Let's create something meaningful together.</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=fe8d14" />
-
+<div>
 

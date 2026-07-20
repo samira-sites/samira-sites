@@ -239,6 +239,6 @@ I appreciate your interest in my work and services.
 
 <h3>🚀 Let's create something meaningful together.</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=fe8d14" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=fe8d14" />
 <div>
 

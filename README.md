@@ -203,19 +203,10 @@ I understand that a website is not just code — it is a tool that helps busines
 
 # 📫 Let's Connect
 
-<a href="https://samiraomar.com">
-<img src="https://img.shields.io/badge/Portfolio-FE8D14?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@samiraomar.com)
-
-<a href="https://www.linkedin.com/in/samira-omar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/samira-sites">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+🌐 <a href="https://samiraomar.com">Portfolio</a> •
+📧 <a href="mailto:hello@samiraomar.com">Email</a> •
+💼 <a href="https://www.linkedin.com/in/samira-omar">LinkedIn</a> •
+💻 <a href="https://github.com/samira-sites">GitHub</a>
 
 </div>
 

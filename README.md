@@ -70,7 +70,7 @@ I am a **Custom Website Developer** specializing in PHP and responsive, SEO-frie
 
 My journey into technology began while I was working as a domestic helper in Kuwait.
 
-While working full-time, I dedicated my free time to studying IT and web development. Through hard work and perseverance, I earned a UK Level 4 Diploma in Information Technology, balancing my studies with my job abroad. This experience strengthened my discipline, time management, patience, and commitment to continuous learning.
+While working full-time, I dedicated my free time to studying IT and web development. Through hard work and perseverance, I earned a UK Diploma in Information Technology, balancing my studies with my job abroad. This experience strengthened my discipline, time management, patience, and commitment to continuous learning.
 
 Today, I continue to build real-world projects, expand my knowledge of PHP and Laravel, and create responsive, SEO-friendly websites that help businesses and individuals establish a strong online presence. I am committed to continuously improving my skills and delivering practical, high-quality web solutions.
 

@@ -48,9 +48,11 @@ I am a **Custom Website Developer** specializing in PHP and responsive, SEO-frie
 
 # 🎓 Education
 
-🎓 **UK Diploma in Information Technology**  
+🎓 **UK Diploma in Information Technology**
 
 💻 **Computer Secretarial Course**
+
+I completed my education while working full-time, building the discipline, resilience, and determination I bring to every project.
 
 <div align="left">
 

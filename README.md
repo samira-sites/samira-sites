@@ -102,7 +102,11 @@ I am a **Custom Website Developer** specializing in PHP and responsive, SEO-frie
 
 <img src="https://samiraomar.com/assets/images/project3.webp" width="500">
 
-Modern milk tea ordering website featuring an interactive shopping cart, online ordering system, order tracking, and a secure admin dashboard for managing customer orders.
+<br>
+
+<p align="lef">
+
+Modern milk tea ordering website featuring an interactive shopping cart, online ordering system, order tracking, and a secure admin dashboard for managing customer orders. <p>
 
 **Tech Stack:**  
 HTML • CSS • JavaScript • PHP • MySQL
@@ -117,7 +121,11 @@ HTML • CSS • JavaScript • PHP • MySQL
 
 <img src="https://samiraomar.com/assets/images/preview.webp" width="500">
 
-A professional business website that showcases my web development services, featured projects, technical expertise, and professional journey. Built with a strong focus on performance, responsive design, SEO best practices, and user experience.
+<br>
+
+<p align="lef">
+
+A professional business website that showcases my web development services, featured projects, technical expertise, and professional journey. Built with a strong focus on performance, responsive design, SEO best practices, and user experience. <p>
 
 **Tech Stack:**
 HTML • CSS • JavaScript • PHP
@@ -132,7 +140,11 @@ HTML • CSS • JavaScript • PHP
 
 <img src="https://samiraomar.com/assets/images/work1.webp" width="500">
 
-Modern, responsive salon website featuring Calendly booking integration, contact form, and embedded map for easy client location and scheduling.
+<br>
+
+<p align="lef">
+
+Modern, responsive salon website featuring Calendly booking integration, contact form, and embedded map for easy client location and scheduling. <p>
 
 **Tech Stack:**  
 HTML • CSS • JavaScript

@@ -141,7 +141,7 @@ A professional business website that showcases my web development services, feat
 **Tech Stack:**
 HTML • CSS • JavaScript • PHP
 
-** My Website:** ↗ https://samiraomar.com
+**My Website:** ↗ https://samiraomar.com
 
 <br>
 

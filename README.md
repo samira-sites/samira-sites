@@ -181,7 +181,7 @@ HTML • CSS • JavaScript
 
 ---
 
-# 🏆 My Developer Journey
+# 🏆 My Journey
 
 My journey into technology began while I was working as an OFW domestic helper in Kuwait.
 

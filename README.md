@@ -48,7 +48,7 @@ Building modern, responsive, and tailored websites for businesses.
 
 ## 👋 Hi, I'm Samira Omar
 
-I am a **Custom Website Developer** specializing in PHP and responsive, SEO-friendly websites. After 9 years working as a domestic helper in Kuwait, I transformed my passion for technology into building custom websites for businesses, startups, and personal brands.
+I am a **Custom Website Developer** specializing in PHP and responsive, SEO-friendly websites. After 9 years working as an OFW domestic helper in Kuwait, I transformed my passion for technology into building custom websites for businesses, startups, and personal brands.
 
 <br>
 

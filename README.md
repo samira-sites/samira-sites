@@ -122,7 +122,7 @@ Modern milk tea ordering website featuring an interactive shopping cart, online 
 **Tech Stack:**  
 HTML • CSS • JavaScript • PHP • MySQL
 
-🌐 **Live Demo:** https://milktea.samiraomar.com
+**Live Demo:** ↗ https://milktea.samiraomar.com
 
 <br>
 
@@ -141,7 +141,7 @@ A professional business website that showcases my web development services, feat
 **Tech Stack:**
 HTML • CSS • JavaScript • PHP
 
-🌐 **Website:** https://samiraomar.com
+**Website:** ↗ https://samiraomar.com
 
 <br>
 
@@ -160,7 +160,7 @@ Modern, responsive salon website featuring Calendly booking integration, contact
 **Tech Stack:**  
 HTML • CSS • JavaScript
 
-🌐 **Live Demo:** https://salon.samiraomar.com
+**Live Demo:** ↗ https://salon.samiraomar.com
 
 <br>
 

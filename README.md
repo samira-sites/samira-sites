@@ -183,7 +183,7 @@ HTML • CSS • JavaScript
 
 # 🏆 My Developer Journey
 
-My journey into technology began while I was working as a domestic helper in Kuwait.
+My journey into technology began while I was working as an OFW domestic helper in Kuwait.
 
 While working full-time, I dedicated my free time to studying IT and web development. Through hard work and perseverance, I earned a UK Diploma in Information Technology, balancing my studies with my job abroad. This experience strengthened my discipline, time management, patience, and commitment to continuous learning.
 

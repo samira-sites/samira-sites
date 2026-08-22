@@ -166,21 +166,6 @@ HTML • CSS • JavaScript
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samira-sites&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samira-sites&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-</div>
-
-<br>
-
----
-
 # 🏆 My Journey
 
 My journey into technology began while I was working as an OFW domestic helper in Kuwait.

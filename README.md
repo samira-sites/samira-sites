@@ -1,5 +1,4 @@
-
-![Header](https://raw.githubusercontent.com/samira-sites/samira-sites/main/banner.png)
+![Header](https://raw.githubusercontent.com/samira-sites/samira-sites/main/assets/banner.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-IT%20%26%20Web%20Development%20Opportunities-FE8D14?style=for-the-badge&labelColor=555555" alt="Open to IT and Web Development Opportunities">
